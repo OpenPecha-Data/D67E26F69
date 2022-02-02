@@ -286,19 +286,19 @@ annotations:
     reference: ''
     span:
       start: 55614
-      end: 56817
+      end: 56819
   3bd14e398e834a8ba5b755b8fd77da30:
     imgnum: 1613
     reference: ''
     span:
-      start: 56819
-      end: 58909
+      start: 56821
+      end: 58911
   df52c2de592d4b7387331681a81cfd19:
     imgnum: 1614
     reference: ''
     span:
-      start: 58911
-      end: 59487
+      start: 58913
+      end: 59489
   ba37fc38e6d045eb8545ac1187d8bfa8:
     imgnum: 1615
     reference: ''
